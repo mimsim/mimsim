@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Maria Nikolova
 - 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning #Angular, #RxJS, #TypeScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... --->
 
 <!---
 mimsim/mimsim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
