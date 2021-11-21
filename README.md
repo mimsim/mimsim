@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Nikolova
 - 👀 I’m interested in Front-End Developer
-- 🌱 #Angular, #RxJS, #TypeScript, HTML, CSS, SASS 
+- 🌱 #Angular, #RxJS, #TypeScript, HTML5, CSS3, SASS 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
