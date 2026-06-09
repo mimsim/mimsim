@@ -1,6 +1,6 @@
 ### Hi, I'm Maria Nikolova 👋
 
-🎯 **Frontend Developer** | 19 years of experience | Angular specialist  
+🎯 **Frontend Developer** | Angular specialist  
 🚀 Expanding into full-stack: **Node.js** & **NestJS**  
 🤖 Building **AI-powered** features (OpenAI / Claude APIs)  
 🐳 Docker basics  
