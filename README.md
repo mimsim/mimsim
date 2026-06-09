@@ -3,7 +3,6 @@
 🎯 **Frontend Developer** | Angular specialist  
 🚀 Expanding into full-stack: **Node.js** & **NestJS**  
 🤖 Building **AI-powered** features (OpenAI / Claude APIs)  
-🐳 Docker basics  
 ---
 
 #### 🛠 Tech stack
