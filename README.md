@@ -10,7 +10,7 @@
 
 | Layer | Technologies |
 |-------|-------------|
-| Frontend | Angular 2+, Signals, RxJS, TypeScript, HTML5, CSS3, SASS, Angular Material,  PrimeNG,  Tailwind CSS|
+| Frontend | Angular 2+, Signals, RxJS, TypeScript, HTML5, CSS3, SASS, Angular Aria and Accessibility, Angular Material,  PrimeNG,  Tailwind CSS|
 | Backend | Node.js, NestJS |
 | AI | AI Integration - OpenAI API, Claude API |
 
