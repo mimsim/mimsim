@@ -1,7 +1,7 @@
 ### Hi, I'm Maria Nikolova 👋
 
 🎯 **Frontend Developer** | Angular specialist  
-🚀 Expanding into full-stack: **Node.js** & **NestJS**  
+🚀 Expanding into full-stack: **Node.js** & **NestJS**  & .NET
 🤖 Building **AI-powered** features (OpenAI / Claude APIs)  
 ---
 
